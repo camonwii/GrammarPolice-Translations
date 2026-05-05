@@ -6,6 +6,14 @@
     </Commands>
     <Phrases>
         <string>on patrol</string>
+        <string>ten ninety eight</string>
+        <string>ninety eight</string>
+        <string>in the field</string>
+        <string>patrolling</string>
+        <string>on the beat</string>
+        <string>mobile patrol</string>
+        <string>cruising</string>
+        <string>out on patrol</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.OnPatrol</Target>
 </Action>

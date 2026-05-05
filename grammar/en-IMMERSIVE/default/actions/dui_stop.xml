@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>dui_stop</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>DUI stop</string>
+        <string>possible DUI</string>
+        <string>drunk driver</string>
+        <string>intoxicated driver</string>
+        <string>impaired driver stop</string>
+        <string>impaired driver</string>
+        <string>ten fifty five</string>
+        <string>fifty five</string>
+        <string>DUI traffic stop</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+</Action>

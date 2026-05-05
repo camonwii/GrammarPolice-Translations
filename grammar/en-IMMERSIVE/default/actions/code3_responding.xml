@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3_responding</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>code three responding</string>
+        <string>responding code three</string>
+        <string>lights and sirens</string>
+        <string>en route code three</string>
+        <string>rolling code three</string>
+        <string>responding hot</string>
+        <string>code three en route</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3</Target>
+</Action>

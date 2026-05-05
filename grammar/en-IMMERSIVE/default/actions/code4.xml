@@ -7,6 +7,12 @@
     <Phrases>
         <string>code four</string>
         <string>four</string>
+        <string>all clear</string>
+        <string>situation under control</string>
+        <string>we're code four</string>
+        <string>everything is code four</string>
+        <string>scene is clear</string>
+        <string>ten four code four</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.Code4</Target>
 </Action>

@@ -7,7 +7,13 @@
     <Phrases>
         <string>air support</string>
         <string>air unit</string>
-		<string>Helicopter</string>
+        <string>helicopter</string>
+        <string>bird</string>
+        <string>chopper</string>
+        <string>aviation unit</string>
+        <string>air one</string>
+        <string>air support unit</string>
+        <string>ten forty nine</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Air</Target>
 </Action>

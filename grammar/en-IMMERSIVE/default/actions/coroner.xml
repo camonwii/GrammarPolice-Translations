@@ -7,7 +7,11 @@
     <Phrases>
         <string>coroner</string>
         <string>C S I</string>
-		<string>ten seventy nine</string>
+        <string>ten seventy nine</string>
+        <string>medical examiner</string>
+        <string>M E unit</string>
+        <string>the M E</string>
+        <string>county coroner</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Coroner</Target>
 </Action>

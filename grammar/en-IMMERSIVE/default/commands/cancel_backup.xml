@@ -6,5 +6,11 @@
         <string>cancel backup</string>
         <string>cancel all backup</string>
         <string>cancel all inbounds</string>
+        <string>disregard</string>
+        <string>disregard backup</string>
+        <string>stand down</string>
+        <string>cancel units</string>
+        <string>all units stand down</string>
+        <string>ten twenty two</string>
     </Phrases>
 </Command>

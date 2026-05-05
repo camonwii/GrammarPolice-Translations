@@ -6,8 +6,13 @@
     </Commands>
     <Phrases>
         <string>on scene</string>
-		<string>ten twenty three</string>
-		<string>twenty three</string>
+        <string>ten twenty three</string>
+        <string>twenty three</string>
+        <string>arrived on scene</string>
+        <string>at the scene</string>
+        <string>at the location</string>
+        <string>on location</string>
+        <string>at the call</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.Scene</Target>
 </Action>
