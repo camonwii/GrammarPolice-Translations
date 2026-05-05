@@ -3,6 +3,7 @@
     <Name>person_deceased</Name>   
     <Commands>
         <string>advisory</string>
+        <string>be_advised</string>
     </Commands>
     <Phrases>
 	    <string>dead</string>

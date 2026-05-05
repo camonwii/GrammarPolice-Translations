@@ -3,11 +3,17 @@
     <Name>fight</Name>
     <Commands>
         <string>advisory</string>
+        <string>be_advised</string>
     </Commands>
     <Phrases>
         <string>fight in progress</string>
         <string>fighting</string>
-		<string>ten ten</string>
+        <string>ten ten</string>
+        <string>brawl in progress</string>
+        <string>physical altercation</string>
+        <string>physical altercation in progress</string>
+        <string>disturbance in progress</string>
+        <string>subjects are fighting</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Advisory.Fight</Target>
 </Action>

@@ -6,7 +6,13 @@
     </Commands>
     <Phrases>
         <string>investigating</string>
-		<string>code 6</string>
+        <string>code 6</string>
+        <string>code six</string>
+        <string>on scene investigating</string>
+        <string>out investigating</string>
+        <string>ten seven teen</string>
+        <string>ten seventeen</string>
+        <string>checking it out</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.Investigating</Target>
 </Action>

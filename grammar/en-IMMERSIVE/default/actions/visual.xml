@@ -3,6 +3,7 @@
     <Name>visual</Name>
     <Commands>
         <string>advisory</string>
+        <string>be_advised</string>
     </Commands>
     <Phrases>
         <string>visual</string>

@@ -6,9 +6,15 @@
     </Commands>
     <Phrases>
         <string>in pursuit</string>
-		<string>in a ten eighty</string>
+        <string>in a ten eighty</string>
         <string>in a pursuit</string>
         <string>eighty</string>
+        <string>I'm in pursuit</string>
+        <string>we're in pursuit</string>
+        <string>vehicle pursuit</string>
+        <string>in a vehicle pursuit</string>
+        <string>in a high speed pursuit</string>
+        <string>ten eighty in progress</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.InPursuit</Target>
 </Action>

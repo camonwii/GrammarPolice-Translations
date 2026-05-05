@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>foot_pursuit</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>foot pursuit</string>
+        <string>in a foot pursuit</string>
+        <string>pursuing on foot</string>
+        <string>foot chase</string>
+        <string>in a foot chase</string>
+        <string>suspect is running on foot</string>
+        <string>suspect on foot</string>
+        <string>running on foot</string>
+        <string>ten eighty foot</string>
+        <string>eighty foot</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.InPursuit</Target>
+</Action>

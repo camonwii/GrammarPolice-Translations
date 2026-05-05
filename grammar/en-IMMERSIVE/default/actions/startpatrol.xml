@@ -7,6 +7,13 @@
     <Phrases>
         <string>starting patrol</string>
         <string>ten forty one</string>
+        <string>beginning patrol</string>
+        <string>commencing patrol</string>
+        <string>on duty</string>
+        <string>going on duty</string>
+        <string>logging on</string>
+        <string>in service</string>
+        <string>starting shift</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.StartPatrol</Target>
 </Action>

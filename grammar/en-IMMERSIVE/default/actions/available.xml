@@ -7,7 +7,13 @@
     <Phrases>
         <string>available</string>
         <string>ten eight</string>
-		<string>ten forty one ten eight</string>
+        <string>ten forty one ten eight</string>
+        <string>back in service</string>
+        <string>back to service</string>
+        <string>clear for calls</string>
+        <string>ready for dispatch</string>
+        <string>in service</string>
+        <string>ten eight available</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.Available</Target>
 </Action>
